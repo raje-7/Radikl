@@ -1,5 +1,4 @@
-# Necro(ネクロ)
-# sidmishra94540@gmail.com
+# rajemishra.1999@gmail.com
 
 # imports
 from PyQt5 import QtCore
